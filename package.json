@@ -10,7 +10,6 @@
   },
   "name": "react-10-12",
   "version": "1.0.0",
-  "main": "index.js",
   "scripts": {
     "dev": "parcel ./public/index.html"
   },

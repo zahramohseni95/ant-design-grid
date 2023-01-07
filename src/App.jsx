@@ -1,8 +1,7 @@
-import { RegisterForm } from "./components/RegisterForm";
+import { AntGrid } from "./components/AntGrid/AntGrid";
 
 export function App(){
     return(
-        <RegisterForm />
+        <AntGrid />
     )
 }
-
